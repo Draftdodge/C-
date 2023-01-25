@@ -36,5 +36,5 @@ int[] CopyArray(int[] arr)
 
 int[] arrayOrigin = CreateArrayRndInt(5, 0, 10);
 PrintArray(arrayOrigin);
-int[] copyArray = CopyArray(array);
+int[] copyArray = CopyArray(arrayOrigin);
 PrintArray(copyArray);
