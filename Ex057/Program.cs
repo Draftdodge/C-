@@ -120,3 +120,4 @@ Console.WriteLine();
 int[,] dictResult = CreatDict(array);
 Console.WriteLine("Печать словаря:");
 PrintDict(dictResult);
+
